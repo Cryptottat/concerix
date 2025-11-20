@@ -41,18 +41,18 @@ function Loader() {
       <div className="loader-content">
         <div className="loader-logo-stack">
           <div className={`logo-reveal loader-logo-1 ${currentLogo >= 0 ? 'revealed' : ''}`}>
-            <img src="/logo_tr.png" alt="Conduitx402" />
+            <img src="/logo_tr.png" alt="Concerix" />
           </div>
           <div className={`logo-reveal loader-logo-2 ${currentLogo >= 1 ? 'revealed' : ''}`}>
-            <img src="/logo_tr.png" alt="Conduitx402" />
+            <img src="/logo_tr.png" alt="Concerix" />
           </div>
           <div className={`logo-reveal loader-logo-3 ${currentLogo >= 2 ? 'revealed' : ''}`}>
-            <img src="/logo_tr.png" alt="Conduitx402" />
+            <img src="/logo_tr.png" alt="Concerix" />
           </div>
         </div>
         
         <div className="loader-text">
-          <div className="loader-brand">Conduitx402</div>
+          <div className="loader-brand">Concerix</div>
           <div className="loader-progress-container">
             <div className="progress-line-wrapper">
               <div 

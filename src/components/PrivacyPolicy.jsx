@@ -18,7 +18,7 @@ function PrivacyPolicy({ onClose }) {
           <div className="privacy-section">
             <h2 className="privacy-section-title">1. Introduction</h2>
             <p className="privacy-text">
-              Conduitx402 ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website conduitx402.com (the "Service").
+              Concerix ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website concerix.cloud (the "Service").
             </p>
             <p className="privacy-text">
               Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Service.

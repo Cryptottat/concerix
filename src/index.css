@@ -17,9 +17,9 @@
   --bg-secondary: #141414;
   --text-primary: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.7);
-  --accent-primary: #d4af37;
-  --accent-secondary: #f4d03f;
-  --border-color: rgba(212, 175, 55, 0.3);
+  --accent-primary: #5dc281;
+  --accent-secondary: #5dc281;
+  --border-color: rgba(93, 194, 129, 0.3);
   
   --font-primary: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Georgia', serif;
   --font-display: 'Georgia', 'Times New Roman', serif;

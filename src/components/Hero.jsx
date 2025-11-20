@@ -17,7 +17,7 @@ function Hero() {
           </div>
 
           <h1 className="hero-title">
-            <span className="title-main">Conduit<br />X402</span>
+            <span className="title-main">Concerix</span>
           </h1>
         </div>
 
@@ -25,13 +25,13 @@ function Hero() {
           <div className="visual-light-source"></div>
           <div className="visual-logo-container">
             <div className="logo-layer logo-1">
-              <img src="/logo_tr.png" alt="Conduitx402 Logo" className="visual-logo" />
+              <img src="/logo_tr.png" alt="Concerix Logo" className="visual-logo" />
             </div>
             <div className="logo-layer logo-2">
-              <img src="/logo_tr.png" alt="Conduitx402 Logo" className="visual-logo" />
+              <img src="/logo_tr.png" alt="Concerix Logo" className="visual-logo" />
             </div>
             <div className="logo-layer logo-3">
-              <img src="/logo_tr.png" alt="Conduitx402 Logo" className="visual-logo" />
+              <img src="/logo_tr.png" alt="Concerix Logo" className="visual-logo" />
             </div>
             <div className="logo-reflection"></div>
           </div>
